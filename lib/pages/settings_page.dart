@@ -1,10 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:isar/isar.dart';
 import 'package:provider/provider.dart';
 import 'package:take_note/theme/theme_provider.dart';
-
-import '../app_const.dart';
 
 class SettingsPage extends StatefulWidget {
   const SettingsPage({super.key});
@@ -27,8 +24,8 @@ class _SettingsPageState extends State<SettingsPage> {
           color: Theme.of(context).colorScheme.primary,
           borderRadius: BorderRadius.circular(12)
         ),
-        padding: const EdgeInsets.symmetric(horizontal: 25 ,vertical: 20 ),
-        margin: const EdgeInsets.only(left: 25, top: 10),
+        padding: const EdgeInsets.symmetric(horizontal: 25 ,vertical: 10 ),
+        margin: const EdgeInsets.only(left: 25, top: 10,right: 25),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [

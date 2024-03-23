@@ -18,12 +18,6 @@ class NotePage extends StatefulWidget {
 }
 
 class _NotePageState extends State<NotePage> {
-  @override
-  void initState() {
-    super.initState();
-    readNotes();
-  }
-
   final noteController = TextEditingController();
 
   void createNote() {
@@ -78,6 +72,12 @@ class _NotePageState extends State<NotePage> {
                 )
               ],
             ));
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    readNotes();
   }
 
   @override

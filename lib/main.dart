@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:take_note/pages/notes_page.dart';
 import 'package:take_note/theme/theme_provider.dart';
-
 import 'models/note_database.dart';
 
 void main() async {

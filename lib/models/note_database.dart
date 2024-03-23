@@ -20,6 +20,7 @@ class NoteDatabase extends ChangeNotifier {
     final newNote = Note()..text = note;
 
     await isar.writeTxn(() => isar.notes.put(newNote)); //save db
+    fetchNotes();
   }
 
   Future<void> fetchNotes() async {
