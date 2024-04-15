@@ -12,17 +12,25 @@ This repository is still under development and I will continue to add more featu
  - See notes
  - Delete note
  - Light mode / Dark mode
-   
-## Screenshots
-![1](https://github.com/HacerYaman/Take-Note-Flutter/assets/109144995/9abeba28-0f96-4a02-b534-6099e3e30c63)
-![2](https://github.com/HacerYaman/Take-Note-Flutter/assets/109144995/5cd39c66-8e42-4853-98c9-71cb2429c1bf)
-![3](https://github.com/HacerYaman/Take-Note-Flutter/assets/109144995/066cf7b8-012d-4353-87da-605f2a2a096d)
-![4](https://github.com/HacerYaman/Take-Note-Flutter/assets/109144995/d53713ec-1114-496b-8ac2-bc6f075e2046)
-
+ - 
 ## Tech Stack
 Flutter SDK
 Isar Database
 
 ## Upcoming Features
  - Create note groups
+ - 
+## Screenshots
+![image](https://github.com/HacerYaman/Take-Note-Flutter/assets/109144995/3cc2521c-2d71-4194-b5d8-2d7fe811dc71)
+![image](https://github.com/HacerYaman/Take-Note-Flutter/assets/109144995/61a91a39-8e90-403f-8091-b98e21c854ca)
+![image](https://github.com/HacerYaman/Take-Note-Flutter/assets/109144995/a724bfc1-ad1b-4b39-964f-4974ae5f4984)
+![image](https://github.com/HacerYaman/Take-Note-Flutter/assets/109144995/bf3bc306-e0b2-40b4-b0ba-33e0995fe102)
+![image](https://github.com/HacerYaman/Take-Note-Flutter/assets/109144995/9fd0746d-4184-48f4-bb1f-19b8300b4392)
+
+
+
+
+
+
+
    
